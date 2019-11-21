@@ -4,7 +4,7 @@
 public class firstjava {
   public static void main(String[] args) {
     System.out.println("This is the test folder");
-System.out.println("my name is amogh");
+System.out.println("my name is mahesh");
 
   }
 }
